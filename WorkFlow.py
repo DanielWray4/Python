@@ -1,5 +1,6 @@
 # Workflow.py
 import webbrowser
+import os
 
 #The open.new function will open the first webpage in the default web browser
 webbrowser.open_new("https://www.google.co.uk")
